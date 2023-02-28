@@ -5,4 +5,4 @@
 
 02 - Atividade módulo Lógica Imperativa - > Sala de Aula<br>
 
-03 - Atividade módulo Lógica Imperativa - > Ficha de Ins;<br>
+03 - Atividade módulo Lógica Imperativa - > Ficha de Inscrição;<br>
