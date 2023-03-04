@@ -1,4 +1,5 @@
-# Introdução a Programação - PortalTech 
+## Introdução a Programação - PortalTech 
+![Logo do programa](logica/src/images/proz_tech.png)
 
 
 01 - Atividade módulo Lógica Imperativa - > Lógica Bolo de Chocolate;<br>
