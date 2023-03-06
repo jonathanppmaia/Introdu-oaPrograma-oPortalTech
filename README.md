@@ -10,6 +10,6 @@
 
 04 - Atividade módulo Lógica Imperativa - > Dados Pessoais;<br>
 
-05 - Atividades Módulo Lógica Imperativa -> Aula 01.03.2023
+05 - Atividades Módulo Lógica Imperativa -> Aula 01.03.2023<br>
 
-
+06 - Atividades Módulo Lógica Imperativa -> Área de um restaurante<br>

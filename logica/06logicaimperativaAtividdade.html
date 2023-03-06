@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<p>
+    Instruções do projeto - Lógica Imperativa<br />
+    Atividade 06 - Area de um restaurante<br />
+
+    Nome: Jonathan P P Maia<br />
+</p>
+<p>Elabore um algoritmo que possa descobrir, através de perguntas e respostas, em qual área de um restaurante uma pessoa ou grupo de pessoas precisa ser alocada.</p>
+<p>O restaurante tem três áreas: térreo, 1ro andar, e área externa.</p>
+<p>Clientes fumantes ou com animais de estimação precisam ser alocadas na área externa.</p>
+<p>Grupos de 5 ou mais precisam ser alocados no 1º andar, pois não dá para juntar mesas no térreo.</p>
+<p>Qualquer outro grupo de pessoas pode ser alocado no térreo.</p>
+
+<p>
+    <b>RESOLUÇÃO</b>
+</p>
+
+<P><b>Algoritmo:</b> Area de um restaurante</P>
+
+<p><b>var</b></p>
+quantPessoas : inteiro<br>
+fumante: logico <br>
+animal: logico <br>
+
+   
+<p><b>inicio</b></p>
+
+<p>escreva("Seja beem-vindo ao Restaurante")</p>
+<p>escreva("Mesa para quantas pessoas?")</p>
+<p> &nbsp;leia (quantPessoas)</p>
+<p>escreva("Possue animal de estimação?")</p>
+<p>  &nbsp;leia(animal)</p>
+<p>escreva("Fumante?")</p>
+<p>&nbsp;leia(fumante)</p>
+<p>se( fumante=true e animal=true ) entao</p>
+<p>&nbsp;&nbsp;&nbsp;escreva(Por favor se dirigir para área externa)</p>
+<p> &nbsp;&nbsp;senao</p>
+<p>se(quantPessoas >= 5) entao</p>
+<p>&nbsp;&nbsp;&nbsp;escreva(Por favor se dirigir para o 1º andar)</p>
+<p> &nbsp;&nbsp;&nbsp;senao</p>
+<p>&nbsp;&nbsp;&nbsp;escreva(Por favor se dirigir ao térreo)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;fimse</p>
+<p>&nbsp;fimse</p>
+
+<p><b>FimAlgoritmo</b></p>
+</p>
+</body>
+
+</html>
