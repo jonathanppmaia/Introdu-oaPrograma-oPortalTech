@@ -16,3 +16,5 @@
 
 07 - Atividades Módulo Lógica Imperativa -> Equipe de Lutadores<br>
 
+08 - Atividades Módulo Lógica Imperativa -> Aula 06.03.2023<br>
+
