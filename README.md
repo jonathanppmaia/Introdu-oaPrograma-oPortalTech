@@ -16,5 +16,3 @@
 
 07 - Atividades Módulo Lógica Imperativa -> Equipe de Lutadores<br>
 
-
-Equipe de Lutadores
