@@ -13,3 +13,8 @@
 05 - Atividades Módulo Lógica Imperativa -> Aula 01.03.2023<br>
 
 06 - Atividades Módulo Lógica Imperativa -> Área de um restaurante<br>
+
+07 - Atividades Módulo Lógica Imperativa -> Equipe de Lutadores<br>
+
+
+Equipe de Lutadores
