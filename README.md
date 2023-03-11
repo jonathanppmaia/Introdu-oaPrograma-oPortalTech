@@ -19,3 +19,5 @@
 08 - Atividades Módulo Lógica Imperativa -> Aula 06.03.2023<br>
 
 #### Módulo 02: Introdução a Programação
+
+01 - Atividade  Módulo Introdução a Programação -> Senteças Verdadeiras ou Falsas<br>
