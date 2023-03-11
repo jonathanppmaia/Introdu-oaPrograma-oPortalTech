@@ -21,3 +21,5 @@
 #### Módulo 02: Introdução a Programação
 
 01 - Atividade  Módulo Introdução a Programação -> Senteças Verdadeiras ou Falsas<br>
+
+01 - Atividade  Módulo Introdução a Programação -> Categoria de habilitação<br>
