@@ -23,3 +23,5 @@
 01 - Atividade  Módulo Introdução a Programação -> Senteças Verdadeiras ou Falsas<br>
 
 02 - Atividade  Módulo Introdução a Programação -> Categoria de habilitação<br>
+
+03 - Atividade  Módulo Introdução a Programação -> Hotel 20 Andares<br>
