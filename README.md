@@ -25,3 +25,5 @@
 02 - Atividade  Módulo Introdução a Programação -> Categoria de habilitação<br>
 
 03 - Atividade  Módulo Introdução a Programação -> Hotel 20 Andares<br>
+
+04 - Atividade  Módulo Introdução a Programação -> Calculadora<br>
