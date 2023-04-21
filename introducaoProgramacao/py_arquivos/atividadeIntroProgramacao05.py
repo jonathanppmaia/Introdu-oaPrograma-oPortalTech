@@ -1,14 +1,16 @@
-import datetime
+def nome_ano_nascimento():
+    nome = input("Digite o seu nome completo: ")
 
-while True:
-    try:
-        nome = input("Digite seu nome completo: ")
-        ano_nascimento = int(input("Digite o ano do seu nascimento (entre 1922 e 2021): "))
-        if ano_nascimento not in [ano for ano in range(1922, 2022)]:
-            raise ValueError("Ano de nascimento fora do intervalo válido!")
-        break
-    except ValueError as e:
-        print(e)
+    while True:
+        try:
+            ano_nascimento = int(input("Digite o seu ano de nascimento (entre 1922 e 2021): "))
+            if (ano_nascimento >= 1922 and ano_nascimento <= 2021):
+                idade = 2022 - ano_nascimento
+                print("Olá,",nome,'!', "Você completou, ou irá completar,",idade,"anos em 2022.")
+                break
+            else:
+                print("Ano de nascimento inválido.")
+        except:
+            print("Ano de nascimento inválido.")
 
-idade = datetime.date.today().year - ano_nascimento
-print(f"Olá, {nome}! Você tem {idade} anos.")
+nome_ano_nascimento()
